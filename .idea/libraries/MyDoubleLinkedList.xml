@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MyDoubleLinkedList">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../oop_exercises/Exercise_04/MyDoubleLinkedList.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
